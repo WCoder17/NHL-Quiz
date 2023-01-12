@@ -1,0 +1,15 @@
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.exe
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.deps.json
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.runtimeconfig.json
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.dll
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.pdb
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.csproj.AssemblyReference.cache
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.AssemblyInfoInputs.cache
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.AssemblyInfo.cs
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.csproj.CoreCompileInputs.cache
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.dll
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\refint\NHL-Quiz.dll
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.pdb
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.genruntimeconfig.cache
+F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\ref\NHL-Quiz.dll
