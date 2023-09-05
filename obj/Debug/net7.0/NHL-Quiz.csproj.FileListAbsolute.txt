@@ -13,3 +13,18 @@ F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\refint\NHL-Quiz.dll
 F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.pdb
 F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.genruntimeconfig.cache
 F:\cSharpPrograms\Quiz Assignment\NHL-Quiz\obj\Debug\net7.0\ref\NHL-Quiz.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.exe
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.deps.json
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.runtimeconfig.json
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\bin\Debug\net7.0\NHL-Quiz.pdb
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\refint\NHL-Quiz.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.pdb
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\NHL-Quiz.genruntimeconfig.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\NHL-Quiz\obj\Debug\net7.0\ref\NHL-Quiz.dll
